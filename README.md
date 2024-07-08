@@ -12,3 +12,5 @@ Install the [SchoolView.apk](https://github.com/stefanlighezan/SchoolView/blob/m
 
 # Web App
 There isn't any setup to the web app except for logging in with the credentials you gave in the app. In the web app, you can organize your drafts into courses. When you click on a course, it will show you all the notes you attached to the course.  
+
+You can find the web app [here](https://stefanlighezan.github.io/)
